@@ -1,0 +1,12 @@
+Assignment10DataBaseVIUD_empInfo
+spring-boot-microservice-with-zuul
+jpa_one_to_many
+jpa_many_to_many
+jpa_one_to_one
+student-microservice-using-resttemplate
+spring-boot-project-package-structure
+spring-boot-microservice-demo-with-ui
+main-repo-microservice-feature
+login-user-role-security
+spring-boot-crud
+spring-boot-examples
