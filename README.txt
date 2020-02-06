@@ -6,6 +6,7 @@ spring-boot-microservice-with-zuul
 student-microservice-using-resttemplate
 spring-boot-microservice-demo-with-ui
 main-repo-microservice-feature
+microservice-cloudconfig-server
 
 #Spring boot
 jpa_one_to_many
