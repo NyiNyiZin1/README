@@ -8,6 +8,8 @@ spring-boot-microservice-demo-with-ui
 main-repo-microservice-feature
 microservice-cloudconfig-server
 
+spring-cloud-video-course
+
 #Spring boot
 jpa_one_to_many
 jpa_many_to_many
