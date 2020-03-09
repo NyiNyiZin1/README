@@ -7,6 +7,8 @@ student-microservice-using-resttemplate
 spring-boot-microservice-demo-with-ui
 main-repo-microservice-feature
 microservice-cloudconfig-server
+zuul-security(jwt)
+swagger2-springboot
 
 spring-cloud-video-course
 
