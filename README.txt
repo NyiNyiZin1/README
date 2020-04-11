@@ -26,3 +26,4 @@ login-user-role-security
 #SPRING_BOOT 5 GURU
 https://github.com/NyiNyiZin1/spring5webapp
 https://github.com/spring-projects/spring-petclinic{ $ mvn spring-boot:run }
+https://github.com/NyiNyiZin1/sfg-pet-clinic
