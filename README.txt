@@ -23,3 +23,5 @@ spring-boot-project-package-structure
 #Security project
 login-user-role-security
 
+#SPRING_BOOT 5 GURU
+https://github.com/NyiNyiZin1/spring5webapp
