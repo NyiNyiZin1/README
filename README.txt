@@ -28,3 +28,4 @@ https://github.com/NyiNyiZin1/spring5webapp
 https://github.com/spring-projects/spring-petclinic{ $ mvn spring-boot:run }
 https://github.com/NyiNyiZin1/sfg-pet-clinic
 https://github.com/NyiNyiZin1/sfg-di.git{dependency injection}
+https://github.com/NyiNyiZin1/spring5-jokes-app
