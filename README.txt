@@ -29,3 +29,15 @@ https://github.com/spring-projects/spring-petclinic{ $ mvn spring-boot:run }
 https://github.com/NyiNyiZin1/sfg-pet-clinic
 https://github.com/NyiNyiZin1/sfg-di.git{dependency injection}
 https://github.com/NyiNyiZin1/spring5-jokes-app
+
+* One to many and Many To One with H2 Database
+Session 3 : (dependency injection)
+1. @Qualifier(service to)
+* By Constructor
+* By Setter
+* By Property
+2.Adding POJOs. Closes #2.
+3.Carnonical
+//if configuration class need to add @Bean annotataion
+4.lombok(getter ,setter annotation)
+Greate course for concept and testing he explain detail concepts of using examples with git repo. I'm really excited right now for next session lecture. 
