@@ -9,6 +9,7 @@ main-repo-microservice-feature
 microservice-cloudconfig-server
 zuul-security(jwt)
 swagger2-springboot
+https://github.com/simplyi/SpringCloudVideoCourse
 
 spring-cloud-video-course
 
